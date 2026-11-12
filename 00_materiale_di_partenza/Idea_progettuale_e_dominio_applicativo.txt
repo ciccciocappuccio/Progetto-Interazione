@@ -1,0 +1,12 @@
+Il gruppo opera nel dominio dell'alimentazione sostenibile e della gestione dello spreco di cibo in ambito domestico. Il problema reale che affrontiamo:
+  chiunque cucina butta via cibo perché dimentica scadenze in dispensa e frigorifero, o non sa come combinare gli ingredienti già in casa; le soluzioni
+  esistenti sono spesso troppo lente o complesse da usare quando si è di fretta, e vengono abbandonate.
+
+  L'idea è un prototipo di sistema interattivo — un gestionale della dispensa di casa con pianificatore dei pasti anti-spreco. L'utente registra i prodotti
+  in modo estremamente veloce (scansione scontrino, voce, inserimento rapido), riceve avvisi prima della scadenza, ottiene ricette suggerite esclusivamente
+  dagli ingredienti disponibili e traccia lo spreco nel tempo.
+
+  Il progetto si sviluppa secondo le 5 fasi del caso di studio HCD: analisi dei requisiti (interviste + analisi concorrenza), prototipo a bassa fedeltà
+  (carta/wireframe), valutazione euristica (principi di Nielsen), prototipo ad alta fedeltà (Figma), user test con utenti reali. Il nucleo del design ruota
+  su una singola frustrazione — l'inserimento rapido dei cibi — che permetterà di testare concretamente usabilità, modello di interazione di Norman e
+  bilanciamento tra apprendibilità e memorabilità.
